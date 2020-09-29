@@ -1,3 +1,10 @@
+___   ___  __    __  .______       __    __  .___  ___.  __   _______   _______      _______.
+\  \ /  / |  |  |  | |   _  \     |  |  |  | |   \/   | |  | |       \ |   ____|    /       |
+ \  V  /  |  |  |  | |  |_)  |    |  |  |  | |  \  /  | |  | |  .--.  ||  |__      |   (----`
+  >   <   |  |  |  | |      /     |  |  |  | |  |\/|  | |  | |  |  |  ||   __|      \   \    
+ /  .  \  |  `--'  | |  |\  \----.|  `--'  | |  |  |  | |  | |  '--'  ||  |____ .----)   |   
+/__/ \__\  \______/  | _| `._____| \______/  |__|  |__| |__| |_______/ |_______||_______/    
+                                                                                             
 /**
 * @name Theme_Discord_xurumides
 * @author xurumides
@@ -16,9 +23,9 @@
 
     /*
     Change your friends icon image
-    Default: https://i.imgur.com/gpIUOSg.gif
+    Default: https://i.imgur.com/PiRrmwA.gif
     */
-    --friends-icon: url(https://i.imgur.com/gpIUOSg.gif);
+    --friends-icon: url(https://i.imgur.com/PiRrmwA.gif);
 
     /*
     Change your friends icon iamge position

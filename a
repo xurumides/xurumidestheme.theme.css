@@ -6,20 +6,6 @@
 * @invite FdZhbjY
 * @source https://github.com/xurumides/xurumidestheme_theme.git
 */
-@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css);
-
-
-/* Import any custom fonts here */
-
-
-
-/* To make editing this theme easier I recommend using Notepad++ , you can download it for free here - https://notepad-plus-plus.org/download/ */
-
-/* Any images you use MUST end with .jpg or .png or any other image extension */
-/* This is NOT a valid link, https://imgur.com/a/ycjL2 */
-/* THIS IS A VALID LINK https://i.imgur.com/rCqnrQ7.jpg */
-
-/* If you find an image I would STRONGLY recommend rehosting the image on imgur https://imgur.com/upload */
 
 :root {
     /*

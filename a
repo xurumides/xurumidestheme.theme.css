@@ -6,12 +6,12 @@ ___   ___  __    __  .______       __    __  .___  ___.  __   _______   _______ 
 /__/ \__\  \______/  | _| `._____| \______/  |__|  |__| |__| |_______/ |_______||_______/    
                                                                                              
 /**
-* @name Theme_Discord_xurumides
+* @name Theme_xurumides
 * @author xurumides
 * @version 1.0
 * @description An easily customizable and automatically updating theme
 * @invite FdZhbjY
-* @source https://github.com/xurumides/xurumidestheme_theme.git
+* @source https://github.com/puckzxz/NotAnotherAnimeTheme
 */
 @import url(https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css);
 
